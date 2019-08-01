@@ -114,7 +114,7 @@
   "travel": {
     "Airb'n'b": ["Flat", "To rent", "workation", "App", "Website"],
     "Airport": ["Building", "Planes", "Travel", "Flight", "Take off"],
-    "Autostop": ["Trip", "Free", "Car", "To catch", "Thumb"],
+    "Hitchhiking": ["Trip", "Free", "Car", "To catch", "Thumb"],
     "Backpacking": ["Shoestring", "Money", "Budget", "Hostel", "Backpack"],
     "Baggage": ["Suitcase", "Belongings", "Bag", "Stuff", "Clothes"],
     "Boarding pass": ["Ticket", "Flight", "Airplane", "Seat", "Check-in"],
